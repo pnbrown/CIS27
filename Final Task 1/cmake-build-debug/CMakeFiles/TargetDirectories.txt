@@ -1,0 +1,3 @@
+/Users/Nigel/Documents/School/CIS 27/Final Task 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Nigel/Documents/School/CIS 27/Final Task 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Nigel/Documents/School/CIS 27/Final Task 1/cmake-build-debug/CMakeFiles/Final_Task_1.dir

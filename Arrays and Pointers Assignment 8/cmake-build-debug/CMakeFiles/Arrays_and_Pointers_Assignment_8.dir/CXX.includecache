@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Nigel/Documents/School/CIS 27/Arrays and Pointers Assignment 8/main.cpp
+iostream
+-
+ctime
+-
+cstdlib
+-
+
